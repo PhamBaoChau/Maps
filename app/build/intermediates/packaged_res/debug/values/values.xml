@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="green">#4caf50</color>
+    <color name="grey">#e3e3e3</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">MapExample</string>
+    <string name="atm_bank">ATM &amp; Ngân hàng</string>
+    <string name="bar">Quán rượu</string>
+    <string name="beauty_spa">Làm đẹp &amp; Spa</string>
+    <string name="cafe">Café</string>
+    <string name="company_service">Các công ty dịch vụ</string>
+    <string name="education">Giáo dục</string>
+    <string name="entertainment">Giải trí</string>
+    <string name="gas">Trạm xăng</string>
+    <string name="hintSearch">Tôi đang tìm kiếm</string>
+    <string name="hotel_travel">Khách sạn &amp; Du lịch</string>
+    <string name="medical">Dịch vụ y tế</string>
+    <string name="my_app_key">AIzaSyBotEiQjNtdNSfyQOL8MDyw1_BCvcdylqE</string>
+    <string name="restaurants">Nhà hàng</string>
+    <string name="scenic">Thắng cảnh</string>
+    <string name="sport">Thể dục &amp; Thể thao</string>
+    <string name="supermarket">Cửa hàng &amp; Siêu thị</string>
+    <style name="Theme.MapExample" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

@@ -1,0 +1,418 @@
+[
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_education.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-hdpi\\ic_education.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_hospital.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-hdpi\\ic_hospital.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable_shape_result.xml.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable\\shape_result.xml"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_restaurant.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-hdpi\\ic_restaurant.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_education.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-xhdpi\\ic_education.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_petro.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-hdpi\\ic_petro.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_bank.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-xxhdpi\\ic_bank.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_hotel.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-hdpi\\ic_hotel.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_market.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-hdpi\\ic_market.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_beauty.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-hdpi\\ic_beauty.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_search.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-hdpi\\ic_search.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_entertainment.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-xxhdpi\\ic_entertainment.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_bar.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-hdpi\\ic_bar.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_service.xml.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-anydpi-v24\\ic_service.xml"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\layout_item_category.xml.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\layout\\item_category.xml"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_entertainment.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-xhdpi\\ic_entertainment.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_hotel.xml.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-anydpi-v24\\ic_hotel.xml"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_bank.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-xhdpi\\ic_bank.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_sport.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-mdpi\\ic_sport.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_dropdown.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-mdpi\\ic_dropdown.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_hotel.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-xhdpi\\ic_hotel.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_hospital.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-xhdpi\\ic_hospital.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_cafe.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-mdpi\\ic_cafe.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_cafe.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-xxhdpi\\ic_cafe.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_category.xml.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\layout\\fragment_category.xml"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_sport.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-xxhdpi\\ic_sport.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_scenic.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-mdpi\\ic_scenic.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_petro.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-mdpi\\ic_petro.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_sport.xml.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-anydpi-v24\\ic_sport.xml"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_bank.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-hdpi\\ic_bank.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_service.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-mdpi\\ic_service.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_hospital.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-xxhdpi\\ic_hospital.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_scenic.xml.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-anydpi-v24\\ic_scenic.xml"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_service.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-xxhdpi\\ic_service.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_service.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-hdpi\\ic_service.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_beauty.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-xxhdpi\\ic_beauty.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_sport.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-xhdpi\\ic_sport.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_hotel.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-mdpi\\ic_hotel.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\layout_custom_info_content.xml.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\layout\\custom_info_content.xml"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_market.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-mdpi\\ic_market.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_bar.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-xhdpi\\ic_bar.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\layout_item_result.xml.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\layout\\item_result.xml"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_cafe.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-hdpi\\ic_cafe.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_bar.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-xxhdpi\\ic_bar.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_restaurant.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-mdpi\\ic_restaurant.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_cafe.xml.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-anydpi-v24\\ic_cafe.xml"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_education.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-mdpi\\ic_education.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_hospital.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-mdpi\\ic_hospital.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_search.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-mdpi\\ic_search.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_petro.xml.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-anydpi-v24\\ic_petro.xml"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_market.xml.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-anydpi-v24\\ic_market.xml"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_petro.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-xhdpi\\ic_petro.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_scenic.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-xxhdpi\\ic_scenic.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_search.xml.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-anydpi-v24\\ic_search.xml"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_shape_border_radius.xml.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-v24\\shape_border_radius.xml"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_scenic.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-xhdpi\\ic_scenic.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_market.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-xxhdpi\\ic_market.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_beauty.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-xhdpi\\ic_beauty.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_bank.xml.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-anydpi-v24\\ic_bank.xml"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_restaurant.xml.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-anydpi-v24\\ic_restaurant.xml"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\menu_category.xml.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\menu\\category.xml"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_search.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-xhdpi\\ic_search.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_petro.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-xxhdpi\\ic_petro.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_education.xml.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-anydpi-v24\\ic_education.xml"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_hotel.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-xxhdpi\\ic_hotel.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_dropdown.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-hdpi\\ic_dropdown.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_entertainment.xml.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-anydpi-v24\\ic_entertainment.xml"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_cafe.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-xhdpi\\ic_cafe.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_market.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-xhdpi\\ic_market.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_bar.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-mdpi\\ic_bar.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_search.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-xxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_restaurant.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-xxhdpi\\ic_restaurant.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_result.xml.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\layout\\fragment_result.xml"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_hospital.xml.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-anydpi-v24\\ic_hospital.xml"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_sport.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-hdpi\\ic_sport.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_bank.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-mdpi\\ic_bank.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_beauty.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-mdpi\\ic_beauty.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_entertainment.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-hdpi\\ic_entertainment.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_map.xml.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\layout\\fragment_map.xml"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_beauty.xml.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-anydpi-v24\\ic_beauty.xml"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_education.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-xxhdpi\\ic_education.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_bar.xml.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-anydpi-v24\\ic_bar.xml"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_restaurant.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-xhdpi\\ic_restaurant.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_dropdown.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-xxhdpi\\ic_dropdown.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_dropdown.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-xhdpi\\ic_dropdown.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_scenic.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-hdpi\\ic_scenic.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\MapExample\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_dropdown.xml.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-anydpi-v24\\ic_dropdown.xml"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_service.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-xhdpi\\ic_service.png"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\MapExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_entertainment.png.flat",
+        "source": "D:\\MapExample\\app\\src\\main\\res\\drawable-mdpi\\ic_entertainment.png"
+    }
+]
