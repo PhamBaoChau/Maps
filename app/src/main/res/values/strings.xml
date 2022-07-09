@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MapExample</string>
+    <string name="my_app_key">AIzaSyBotEiQjNtdNSfyQOL8MDyw1_BCvcdylqE</string>
+    <string name="hintSearch">Tôi đang tìm kiếm</string>
+    <string name="restaurants">Nhà hàng</string>
+    <string name="cafe">Café</string>
+    <string name="entertainment">Giải trí</string>
+    <string name="atm_bank">ATM &amp; Ngân hàng</string>
+    <string name="gas">Trạm xăng</string>
+    <string name="medical">Dịch vụ y tế</string>
+    <string name="hotel_travel">Khách sạn &amp; Du lịch</string>
+    <string name="beauty_spa">Làm đẹp &amp; Spa</string>
+    <string name="supermarket">Cửa hàng &amp; Siêu thị</string>
+    <string name="company_service">Các công ty dịch vụ</string>
+    <string name="scenic">Thắng cảnh</string>
+    <string name="education">Giáo dục</string>
+    <string name="bar">Quán rượu</string>
+    <string name="sport">Thể dục &amp; Thể thao</string>
+
+
+</resources>

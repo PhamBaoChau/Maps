@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:gravity="center"
+    android:layout_margin="10dp">
+        <TextView
+            android:id="@+id/icon_item"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/ic_restaurant"
+            android:backgroundTint="@color/green" />
+
+        <TextView
+            android:id="@+id/content_item"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingStart="10dp"
+            android:text="@string/restaurants"
+            android:textColor="@color/black"
+            android:textSize="14sp" />
+</LinearLayout>
